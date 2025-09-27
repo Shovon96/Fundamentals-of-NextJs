@@ -16,7 +16,7 @@ export default function Navbar() {
                         <Link href="/">Home</Link>
                     </li>
                     <li className="hover:text-pink-600 transition duration-300">
-                        <Link href="/gallery">Gallery</Link>
+                        <Link href="/products">Products</Link>
                     </li>
                     <li className="hover:text-pink-600 transition duration-300">
                         <Link href="/about">About</Link>
