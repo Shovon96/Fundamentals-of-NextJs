@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S21",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": 699.99,
+      "image": "https://choloride-frontend.vercel.app/login.webp"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "price": 999.99,
+      "image": "https://choloride-frontend.vercel.app/login.webp"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM4",
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": 349.99,
+      "image": "https://choloride-frontend.vercel.app/login.webp"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "category": "Laptop",
+      "brand": "Dell",
+      "price": 1199.99,
+      "image": "https://choloride-frontend.vercel.app/login.webp"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R5",
+      "category": "Camera",
+      "brand": "Canon",
+      "price": 3899.99,
+      "image": "https://choloride-frontend.vercel.app/login.webp"
+    }
+  ]
+}
