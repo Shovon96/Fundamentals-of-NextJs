@@ -21,6 +21,9 @@ export default function Navbar() {
                     <li className={`${currentPath === "/products" ? "text-pink-600 font-bold underline" : "font-bold hover:text-pink-500 hover:underline"}`}>
                         <Link href="/products">Products</Link>
                     </li>
+                    <li className={`${currentPath === "/posts" ? "text-pink-600 font-bold underline" : "font-bold hover:text-pink-500 hover:underline"}`}>
+                        <Link href="/posts">Posts</Link>
+                    </li>
                     <li className={`${currentPath === "/about" ? "text-pink-600 font-bold underline" : "font-bold hover:text-pink-500 hover:underline"}`}>
                         <Link href="/about">About</Link>
                     </li>
